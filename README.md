@@ -53,4 +53,4 @@ Por último si queremos sincronizar nuestro repositorio local con el repositorio
 
 * https://docs.github.com/en/education/explore-the-benefits-of-teaching-and-learning-with-github-education
 
-*https://education.github.com/pack 
+* https://education.github.com/pack 
